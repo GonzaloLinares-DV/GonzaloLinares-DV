@@ -1,5 +1,4 @@
 ### Hi there 👋
-Here are some ideas to get you started:
 
 - Im 23 years old
 - 🔭 I’m currently working on a PacMan game like in RTX on Unity Engine
